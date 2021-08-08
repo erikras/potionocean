@@ -1,10 +1,11 @@
 import React from "react";
 import OrderForm from "../components/OrderForm";
+import Image from "next/image";
 
 const Home = () => (
   <div>
     <header>
-      <img src="/potion.png" />
+      <Image src="/potion.png" height={80} width={80} />
       <div>
         <h1>Potion Ocean</h1>
         <h2>Fresh ingredients to your door!</h2>
