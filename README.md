@@ -9,3 +9,5 @@ yarn dev
 ```
 
 ## See it Live: [potionocean.erikras.com](https://potionocean.erikras.com)
+
+![XState Harry](./xstate-harry.jpg)
