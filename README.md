@@ -8,4 +8,4 @@ A demo project demonstrating how to build a Wizard Form.
 yarn dev
 ```
 
-## See it Live: [potionocean.erikras.com](https://potionocean.erikras.com)]
+## See it Live: [potionocean.erikras.com](https://potionocean.erikras.com)
